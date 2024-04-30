@@ -24,9 +24,22 @@ This commands includes
 • IP Commands
 <BR>
 • Other IP Commands e.g. show ip route etc.
-<BR>
+<BR> 
 
-## Output
+## PROGRAM
+## CLIENT
+![image](https://github.com/Deepikasuresh05/4.Execution_of_NetworkCommends/assets/148514509/1d0e4d8b-9916-4a12-95fe-20359529be0a)
+## SERVER
+![image](https://github.com/Deepikasuresh05/4.Execution_of_NetworkCommends/assets/148514509/e1901ece-627f-4e9e-b5f8-8f6b7b0752af)
+## TRANCEROUTE COMMAND
+![image](https://github.com/Deepikasuresh05/4.Execution_of_NetworkCommends/assets/148514509/5f292efc-5aa3-42d4-88bd-2b63db1df67d)
 
+## OUTPUT
+## CLIENT
+![image](https://github.com/Deepikasuresh05/4.Execution_of_NetworkCommends/assets/148514509/3918ac93-8b1b-4a9a-885c-6d7beb6cbad9)
+## SERVER
+![image](https://github.com/Deepikasuresh05/4.Execution_of_NetworkCommends/assets/148514509/5953c2d5-4a8e-4a20-8469-ec5b65857d89)
+## TRANCEROUTE COMMAND
+![image](https://github.com/Deepikasuresh05/4.Execution_of_NetworkCommends/assets/148514509/980c311d-0d17-4ced-aa48-cfcbf73851ae)
 ## Result
 Thus Execution of Network commands Performed 
